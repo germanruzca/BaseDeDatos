@@ -1,0 +1,10 @@
+C:\Users\franc\Documents\C#(German)\BURBUJAMEJORADA\BURBUJAMEJORADA\obj\Debug\BURBUJAMEJORADA.Form1.resources
+C:\Users\franc\Documents\C#(German)\BURBUJAMEJORADA\BURBUJAMEJORADA\obj\Debug\BURBUJAMEJORADA.Properties.Resources.resources
+C:\Users\franc\Documents\C#(German)\BURBUJAMEJORADA\BURBUJAMEJORADA\obj\Debug\BURBUJAMEJORADA.csproj.GenerateResource.cache
+C:\Users\franc\Documents\C#(German)\BURBUJAMEJORADA\BURBUJAMEJORADA\obj\Debug\BURBUJAMEJORADA.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\C#(German)\BURBUJAMEJORADA\BURBUJAMEJORADA\bin\Debug\BURBUJAMEJORADA.exe.config
+C:\Users\franc\Documents\C#(German)\BURBUJAMEJORADA\BURBUJAMEJORADA\bin\Debug\BURBUJAMEJORADA.exe
+C:\Users\franc\Documents\C#(German)\BURBUJAMEJORADA\BURBUJAMEJORADA\bin\Debug\BURBUJAMEJORADA.pdb
+C:\Users\franc\Documents\C#(German)\BURBUJAMEJORADA\BURBUJAMEJORADA\obj\Debug\BURBUJAMEJORADA.exe
+C:\Users\franc\Documents\C#(German)\BURBUJAMEJORADA\BURBUJAMEJORADA\obj\Debug\BURBUJAMEJORADA.pdb
+C:\Users\franc\Documents\C#(German)\BURBUJAMEJORADA\BURBUJAMEJORADA\obj\Debug\BURBUJAMEJORADA.csprojAssemblyReference.cache
