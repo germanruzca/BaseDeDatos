@@ -1,0 +1,10 @@
+C:\Users\franc\Documents\C#(German)\BURBUJA\BURBUJA\obj\Debug\BURBUJA.csprojAssemblyReference.cache
+C:\Users\franc\Documents\C#(German)\BURBUJA\BURBUJA\obj\Debug\BURBUJA.Form1.resources
+C:\Users\franc\Documents\C#(German)\BURBUJA\BURBUJA\obj\Debug\BURBUJA.Properties.Resources.resources
+C:\Users\franc\Documents\C#(German)\BURBUJA\BURBUJA\obj\Debug\BURBUJA.csproj.GenerateResource.cache
+C:\Users\franc\Documents\C#(German)\BURBUJA\BURBUJA\obj\Debug\BURBUJA.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\C#(German)\BURBUJA\BURBUJA\bin\Debug\BURBUJA.exe.config
+C:\Users\franc\Documents\C#(German)\BURBUJA\BURBUJA\bin\Debug\BURBUJA.exe
+C:\Users\franc\Documents\C#(German)\BURBUJA\BURBUJA\bin\Debug\BURBUJA.pdb
+C:\Users\franc\Documents\C#(German)\BURBUJA\BURBUJA\obj\Debug\BURBUJA.exe
+C:\Users\franc\Documents\C#(German)\BURBUJA\BURBUJA\obj\Debug\BURBUJA.pdb
